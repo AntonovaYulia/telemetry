@@ -1,5 +1,5 @@
-number1 = input(Введите число)
-number2= input(Введите число)
+number1 = input("Введите первое число")
+number2 = input("Введите второе число")
 
 
 summa = number1 + number2
